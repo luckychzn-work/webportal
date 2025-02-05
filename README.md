@@ -1,2 +1,2 @@
-# webportal
-Web portal system with frontend and backend. Tech stacks used in JS.
+# web portal
+Web portal system frontend side. Tech stacks used in JS.
