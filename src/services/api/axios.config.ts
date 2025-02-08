@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseURL = process.env.REACT_APP_API_URL || 'https://VEVE.blog.webportal.com';
+const baseURL = process.env.REACT_APP_API_URL || 'https://veve.blog.webportal.com';
 
 const axiosInstance = axios.create({
     baseURL,
